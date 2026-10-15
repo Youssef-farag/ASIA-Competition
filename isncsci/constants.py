@@ -1,0 +1,9 @@
+"""Shared constants."""
+
+# Spinal levels in anatomical order
+SPINAL_LEVELS = [
+    'c2', 'c3', 'c4', 'c5', 'c6', 'c7', 'c8',
+    't1', 't2', 't3', 't4', 't5', 't6', 't7', 't8', 't9', 't10', 't11', 't12',
+    'l1', 'l2', 'l3', 'l4', 'l5',
+    's1', 's2', 's3', 's45',
+]

@@ -1,0 +1,6 @@
+# Competition data is distributed by the organizers on request; do not commit it.
+data/
+# Generated outputs
+submissions/
+__pycache__/
+*.pyc
